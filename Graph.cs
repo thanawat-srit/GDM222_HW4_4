@@ -1,7 +1,7 @@
 class Graph
 {
     private int nodeList;
-    private List<int>[] edgeTable;
+    public List<int>[] edgeTable;
 
     public Graph(int nodeCount)
     {
